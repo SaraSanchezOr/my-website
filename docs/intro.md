@@ -1,44 +1,31 @@
 ---
 sidebar_position: 1
 ---
+Documentation, everyone reads it nobody writes it, is that true? 
 
-# Tutorial Intro
+# A little bit about me
 
-Let's discover **Docusaurus in less than 5 minutes**.
+I’m Sara Sánchez Ortiz, a Technical, UX, and programmer writer living between two amazing cities Madrid and Alicante, Spain. I write and explore tech for a living and I am also a Technical Translator.
 
-## Getting Started
+I know enough coding to be dangerous and a lot of grammar to be pikcy. I love the Oxford comma, em dashes, semicolons, and the interrobang. My grammar is descriptive when writing and prescriptive when editing. I break rules all the time if it helps getting a message across.
 
-Get started by **creating a new site**.
+I help people and companies through documentation and coding. I can help you to make your code understandable by humans and not only developers ;) and of course making any kind of guidance that could be useful for real people to trhive into your code. 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## What do I need documentation?
 
-### What you'll need
+Great question! and I'm sure you are thinking documentation is not needed. But if you're here maybe you have though twice about it and maybe you have been struggling sometimes with something you don0t understand and blaming the person who writes it because it is so difficult to inderstand. So that's why you need a good documentation.  You can make your customers happy, with a well written and easy documentation.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### It is really something I need
 
-## Generate a new site
+If you are continuing reading, then yes. You needed it. Let me explain you something. Having a good documentation may avoid you:
 
-Generate a new Docusaurus site using the **classic template**.
+Explicar aqui todo lo que deberia de ser de beneficioso tener una buena documentación.
 
-The classic template will automatically be added to your project after you run the command:
+## C'mon I can do that
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Sure! you can do that! And I'm sure that you will also be able to do a lot of things, but you'll need training and I am already have it ;) So I can help you with creating, copywriting, revieweng your documentation and make it accesible and easier for everyone. C'mon let's have a call so I can explain to you the great things words can do.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
 
 The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
 
