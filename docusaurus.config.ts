@@ -5,8 +5,6 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Sara Sanchez Ortiz',
   tagline: 'Technical Writer',
-  favicon: // icono que quiero que aparezca arriba
-  // Set the production url of your site here
   url: 'https://sarasanchezor.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
