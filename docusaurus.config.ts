@@ -5,8 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Sara Sanchez Ortiz',
   tagline: 'Technical Writer',
-  favicon: 'img/favicon.ico',
-
+  favicon: // icono que quiero que aparezca arriba
   // Set the production url of your site here
   url: 'https://sarasanchezor.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -58,19 +57,15 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/iberia-sara.jpg',
     navbar: {
-      title: 'My Site',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      title: 'Sara Sánchez',
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'menuSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'About me',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -84,46 +79,25 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'Stack',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
+              label: 'LinkedIn',
               href: 'https://discordapp.com/invite/docusaurus',
             },
             {
-              label: 'Twitter',
+              label: 'MeetContent Iberia',
               href: 'https://twitter.com/docusaurus',
             },
           ],
         },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
+        
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Sara Sánchez Ortiz.`,
     },
     prism: {
       theme: prismThemes.github,
